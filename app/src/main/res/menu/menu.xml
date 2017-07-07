@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+
+    <item android:id = "@+id/main_settings"
+        android:title = "@string/settings"
+        android:orderInCategory="100"
+
+        />
+    <item android:id = "@+id/changeimage"
+    android:title = "@string/change1"
+    android:orderInCategory="101"
+        android:onClick="changeimageclickhandler"
+        app:showAsAction="ifRoom"
+        />
+
+    <item android:id = "@+id/changeimage2"
+        android:title = "@string/change2"
+        android:orderInCategory="102"
+        android:onClick="changeimage2clickhandler"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>

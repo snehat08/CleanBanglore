@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CleanBanglore</string>
+    <string name="clickme">clickme!!!</string>
+    <string name="test">Hello</string>
+    <string name="registerhere">register here</string>
+    <string name="CleanBangalore">cleanbangalore</string>
+    <string name="firstname">firstname</string>
+    <string name="middlename">middlename</string>
+    <string name="Email">email</string>
+    <string name="name">Name</string>
+    <string name="login">login</string>
+    <string name="change">change</string>
+    <string name="assets">assets</string>
+    <string name="change2">change2</string>
+    <string name="settings">settings</string>
+    <string name="change1">change1</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="website">website</string>
+    <string name="button3">Button</string>
+    <string name="navigate">navigate</string>
+    <string name="name2">Name</string>
+    <string name="name3">Name</string>
+    <string name="button7">Button</string>
+</resources>
